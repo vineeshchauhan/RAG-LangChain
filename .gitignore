@@ -45,6 +45,7 @@ Thumbs.db
 .env
 .env.local
 constants.py
+constants_example.py
 
 # Logs
 *.log
